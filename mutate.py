@@ -215,6 +215,6 @@ The shape will be the same as the input data, but with one extra atom for each G
     input_sequence = args.input_sequence
     output_sequence = args.output_sequence
     arr = np.load(args.input_data)
-    outp = mutate_from_AC(arr, input_sequence, output_sequence)
+    outp = mutate(arr, input_sequence, output_sequence)
 
     np.save(args.output_data, outp)
