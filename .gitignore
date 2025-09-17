@@ -1,0 +1,11 @@
+*.pyc
+library/dinuc-?G-*
+library/dinuc-G?-*
+library/dinuc-?U-*
+library/dinuc-U?-*
+library/trinuc-??G-*
+library/trinuc-?G?-*
+library/trinuc-G??-*
+library/trinuc-??U-*
+library/trinuc-?U?-*
+library/trinuc-U??-*
