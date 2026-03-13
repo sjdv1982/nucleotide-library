@@ -1,3 +1,4 @@
+.vscode
 *.pyc
 library/dinuc-?G-*
 library/dinuc-G?-*
@@ -9,3 +10,4 @@ library/trinuc-G??-*
 library/trinuc-??U-*
 library/trinuc-?U?-*
 library/trinuc-U??-*
+output/*.npy
